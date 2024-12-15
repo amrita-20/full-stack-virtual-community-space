@@ -1,16 +1,8 @@
-# WEB103 Project 3 - *EventSphere*
-
-Submitted by: **Amrita Dubey**
+## EventSphere*
 
 About this web app: **A dynamic and interactive platform built using React, Node.js, and PostgreSQL where users can explore community events based on specific locations. Whether users are interested in music festivals, adventurous expeditions, or local support groups, EventSphere provides a seamless experience to explore what’s happening in their virtual or real-world surroundings.**
 
-Time spent: **12** hours
-
-## Required Features
-
-The following **required** functionality is completed:
-
-<!-- Make sure to check off completed functionality below -->
+## Features
 
 - [X] **The web app uses React to display data from the API**
 - [X] **The web app is connected to a PostgreSQL database, with an appropriately structured Events table**
@@ -20,24 +12,13 @@ The following **required** functionality is completed:
 - [X] **Clicking on a Location shows a list of all items from the Events table that corresponds to that Location**
 - [X] **Each Location detail page should have its own unique URL**
 
-The following **optional** features are implemented:
-
 - [X] An additional page shows all possible `Events` that the user can sort and filter by `Location`
-- [ ] `Events` display a countdown showing the time remaining before that event and appears with different formatting when the event has passed
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
 https://imgur.com/2nsVRq0
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with imgur
-
 
 ## Notes
 
